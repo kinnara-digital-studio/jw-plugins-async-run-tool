@@ -10,6 +10,7 @@ import org.springframework.context.ApplicationContext;
 import java.util.Map;
 
 /**
+ * @author aristo
  * Plugin Generator Helper
  */
 public class PluginGenerator {

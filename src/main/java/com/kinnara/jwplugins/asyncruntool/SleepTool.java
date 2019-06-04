@@ -7,6 +7,9 @@ import org.joget.plugin.base.DefaultApplicationPlugin;
 import java.util.Date;
 import java.util.Map;
 
+/**
+ * @author aristo
+ */
 public class SleepTool extends DefaultApplicationPlugin {
     public String getName() {
         return "Sleep Tool";
